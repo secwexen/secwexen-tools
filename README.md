@@ -48,13 +48,6 @@ You are free to use, modify, and distribute the code **as long as derivative wor
 
 ---
 
-## Contributions 
-
-Suggestions, improvements, and ideas are welcome.  
-Feel free to open an issue or submit a pull request.
-
----
-
 ## Author  
 
 **secwexen**  
