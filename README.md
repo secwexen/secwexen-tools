@@ -1,4 +1,4 @@
-# secwexen-tools  
+# secwexen-cyber-tools  
 
 **A curated collection of offensive, defensive, and automation tools developed for cybersecurity research, penetration testing, and threat analysis.**
 
